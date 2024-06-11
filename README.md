@@ -40,7 +40,7 @@ and `description`.
 | steps | text for recipe steps, in order (str) |
 | description | user-provided description (str) |
 
-print(recipes_markdown)
+`print(recipes.to_markdown(index=False))`
 
 
 
