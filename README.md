@@ -2,5 +2,7 @@
 
 Author: Sharon Ni (s3ni@ucsd.edu)
 
-Final Project for DSC80
-<br> An analysis of the features that make a highly-rated recipe
+This project analyzes the features that correlate with online recipe ratings. It is part of the coursework for DSC80: 
+Practice and Application of Data Science at UCSD. 
+
+
