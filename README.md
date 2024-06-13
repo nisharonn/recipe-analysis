@@ -2,7 +2,7 @@
 
 Author: Sharon Ni (s3ni@ucsd.edu)
 
-This project is a comprehensive analysis that examines the features associated with online recipe projects. It features an analysis spanning the entire data science lifecycle, from data cleaning and exploratory data analysis to hypothesis testing and model building. This project is part of the coursework for DSC80: Practice and Application of Data Science at UCSD. 
+This project is a comprehensive analysis that examines the features associated with online recipes. It features an analysis spanning the entire data science lifecycle, from data cleaning and exploratory data analysis to hypothesis testing and model building. This project is part of the coursework for DSC80: Practice and Application of Data Science at UCSD. 
 
 ## Introduction:
 Cooking is a popular hobby for many, offering not only the joy of creating delicious meals but also the satisfaction of sharing these creations with friends and family. With the expanding reach of online platforms, sharing recipes has become much easier and more widespread. Specifically, through the popular website food.com, users can readily access recipes, rate them, and interact with fellow enthusiasts who share a similar hobby. 
