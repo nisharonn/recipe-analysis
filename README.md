@@ -123,7 +123,7 @@ This plot reveals a left-skewed distribution, indicating that the majority of av
 The next plot below shows the distribution of description length for all recipes in the `rated_recipes` dataset.
 
 <iframe
-  src="assets/dis_len_dis.html"
+  src="assets/des_len_dis.html"
   width="800"
   height="400"
   frameborder="0"
@@ -135,7 +135,7 @@ In this analysis, an outlier is thus defined as any value above the 99th percent
 In this analysis, an outlier is thus defined as any value above the 99th percentile of its distribution. This means that values in the top 1% of the `des_len` column are removed. The new distribution without outliers is shown below.
 
 <iframe
-  src="assets/dis_len_dis_out.html"
+  src="assets/des_len_dis_out.html"
   width="800"
   height="400"
   frameborder="0"
@@ -264,7 +264,7 @@ First, missingness in `description` is examined in relation to `avg_rating`.
 The significance level is defined as **0.05**.
 
 <iframe
-  src="assets/missing_test_stats.html"
+  src="assets/missingness_test_stats.html"
   width="800"
   height="600"
   frameborder="0"
@@ -284,7 +284,7 @@ Next, missingness in `description` is examined in relation to `avg_step_len`.
 The significance level is defined as **0.05**.
 
 <iframe
-  src="assets/missing_test_stats2.html"
+  src="assets/missingness_test_stats2.html"
   width="800"
   height="600"
   frameborder="0"
