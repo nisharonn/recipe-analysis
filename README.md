@@ -174,7 +174,7 @@ The first scatterplot below depicts the relationship between average ratings and
 <iframe
   src="assets/rating_vs_des_len.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -188,7 +188,7 @@ The next scatterplot represents the relationship between average ratings and ave
 <iframe
   src="assets/rating_vs_step_len.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -201,7 +201,7 @@ The last scatterplot depicts the relationship between the number of steps and av
 <iframe
   src="assets/rating_vs_n_steps.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -266,7 +266,7 @@ The significance level is defined as **0.05**.
 <iframe
   src="assets/missingness_test_stats.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -286,7 +286,7 @@ The significance level is defined as **0.05**.
 <iframe
   src="assets/missingness_test_stats2.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -308,7 +308,7 @@ The significance level is **0.05%**
 <iframe
   src="assets/hypothesis_test_stats.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
@@ -367,7 +367,7 @@ The significance level is **0.05**.
 <iframe
   src="assets/fairness_test_stats.html"
   width="800"
-  height="600"
+  height="400"
   frameborder="0"
 ></iframe>
 
